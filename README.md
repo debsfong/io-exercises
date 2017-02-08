@@ -21,3 +21,6 @@ create a random number using the Random class, or you could use the `shuffle`
 method in array.
 
 ## Improved RPN Calculator
+
+Lets revisit your RPN Calculator and add some functionality. Add a couple
+methods to prompt for user input, and then evaluate the input. 

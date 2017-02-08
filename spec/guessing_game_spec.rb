@@ -1,5 +1,5 @@
 require 'byebug'
-require 'io_exercises'
+require 'guessing_game'
 require 'stringio'
 
 class NoMoreInput < StandardError
